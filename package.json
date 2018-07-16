@@ -1,0 +1,25 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "description": "基于webpack前端完整项目流程",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "git:push":"git pull && git add . && git commit -m '更新' && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuhangbiao/www.git"
+  },
+  "keywords": [
+    "webpack",
+    "nodejs",
+    "web"
+  ],
+  "author": "道心",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuhangbiao/www/issues"
+  },
+  "homepage": "https://github.com/liuhangbiao/www#readme"
+}
